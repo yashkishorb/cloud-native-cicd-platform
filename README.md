@@ -133,33 +133,5 @@ Typical workflow:
 - Security response headers
 - Container health checks
 
----
 
-## Learning Outcomes
 
-This project helped me gain hands-on experience with:
-
-- Docker containerization
-- CI/CD fundamentals
-- GitHub Actions
-- Reverse proxy configuration
-- Linux-based deployments
-- AWS deployment workflow
-- Production-inspired project organization
-
----
-
-## Future Improvements
-
-- Complete GitHub Actions deployment workflow
-- Add Docker image scanning
-- Integrate Terraform infrastructure provisioning
-- Add monitoring using Prometheus and Grafana
-- Deploy using HTTPS with Let's Encrypt
-- Add automated rollback support
-
----
-
-## License
-
-This project is intended for educational and portfolio purposes.
